@@ -1,2 +1,2 @@
 # What-s-For-Dinner-
-Random dinner idea
+I have a terrible time trying to decide what to make for dinner. I made an array of foods that I know how to make and that my family likes, and using math.random I have it generate dinner ideas for me. Either I click through a few to know what to shop for the week, or I click and hope that I have the ingredients. (if not, I can always just click for a new selection).  Although this is a simple application with very little styling, it really is used on a daily basis in my home.
